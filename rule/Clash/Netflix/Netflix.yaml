@@ -10,6 +10,7 @@
 # PROCESS-NAME: 1
 # TOTAL: 1075
 payload:
+  - DOMAIN-KEYWORD,e13252.dscg.akamaiedge.net
   - DOMAIN,h-netflix.online-metrix.net
   - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN-SUFFIX,cookielaw.org
